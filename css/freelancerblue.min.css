@@ -62,14 +62,16 @@ aside,
 figcaption,
 figure,
 footer,
-header,
 hgroup,
 main,
 nav,
 section {
     display: block
 }
-
+header {
+    display: block
+    background: url("img/head.jpg") center center no-repeat;
+  background-size: cover; }
 body {
     margin: 0;
     font-family: Lato, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -7206,6 +7208,12 @@ a.close.disabled {
 .bg-primary {
     background-color: #ace6d6!important;
 }
+
+.hero {
+  background-image: linear-gradient( rgba(172, 230, 214, 0.5), rgba(232, 199, 81, 0.5) ),     url(head.jpg);
+  opacity:0.9;
+}
+
 
 a.bg-primary:focus,
 a.bg-primary:hover,
