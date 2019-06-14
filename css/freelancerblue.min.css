@@ -11193,3 +11193,8 @@ form .row:first-child .floating-label-form-group {
   display: table;
   margin: auto;
 }
+img.round {
+
+  border-radius: 50px;
+
+}
