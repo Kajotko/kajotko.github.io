@@ -7210,7 +7210,7 @@ a.close.disabled {
 }
 
 .hero {
-  background-image: linear-gradient( rgba(172, 230, 214, 0.5), rgba(232, 199, 81, 0.5) ),     url(head.JPG);
+  background-image: linear-gradient( rgba(172, 230, 214, 0.5), rgba(232, 199, 81, 0.5) ),     url(head.png);
   opacity:0.9;
 }
 
