@@ -6586,9 +6586,9 @@ a.close.disabled {
     }
 }
 
-@media (min-width:1200px) {
+@media (min-width:1000px) {
     .modal-xl {
-        max-width: 1280px
+        max-width: 1080px
     }
 }
 
