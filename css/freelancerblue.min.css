@@ -179,7 +179,7 @@ sup {
 }
 
 a {
-    color: #F2D68A;
+    color: #9FEDD7;
     text-decoration: none;
     background-color: transparent
 }
@@ -6588,7 +6588,7 @@ a.close.disabled {
 
 @media (min-width:1200px) {
     .modal-xl {
-        max-width: 1140px
+        max-width: 1280px
     }
 }
 
@@ -10891,7 +10891,7 @@ a.text-dark:hover {
 }
 
 .divider-custom {
-    margin: 1.25rem 0 1.5rem;
+    margin: 0.25rem 0 0.5rem;
     width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -11108,6 +11108,10 @@ a.text-dark:hover {
     font-size: 2.25rem;
     line-height: 2rem
 }
+.portfolio-modal .portfolio-modal-subtitle {
+    font-size: 1.5rem;
+    line-height: 2rem
+}
 
 @media (min-width:992px) {
     .portfolio-modal .portfolio-modal-title {
@@ -11205,4 +11209,8 @@ img.round {
 
   border-radius: 50px;
 
+}
+.no-padding {
+  padding-left: 10;
+  padding-right: 10;
 }
