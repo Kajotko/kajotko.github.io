@@ -11108,8 +11108,8 @@ a.text-dark:hover {
     line-height: 2rem
 }
 .portfolio-modal .portfolio-modal-subtitle {
-    font-size: 1.5rem;
-    line-height: 2rem
+    font-size: 1rem;
+    line-height: 1.25rem
 }
 
 @media (min-width:992px) {
